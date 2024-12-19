@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\Asensor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|c:\\git\\asensor\\asensorapi\\repositories\\elevatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|solutionrelative:asensorapi\\repositories\\elevatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|c:\\git\\asensor\\asensorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|solutionrelative:asensorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|c:\\git\\asensor\\asensorapi\\controllers\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|solutionrelative:asensorapi\\controllers\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|c:\\git\\asensor\\asensorapi\\repositories\\ielevatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|solutionrelative:asensorapi\\repositories\\ielevatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|c:\\git\\asensor\\asensorapi\\models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|solutionrelative:asensorapi\\models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|c:\\git\\asensor\\asensorapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F373519-522C-4192-AA7B-43A97631C673}|AsensorAPI\\ElevatorAPI.csproj|solutionrelative:asensorapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\Asensor\\AsensorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AsensorAPI\\Program.cs",
+              "ToolTip": "C:\\Git\\Asensor\\AsensorAPI\\Program.cs",
+              "RelativeToolTip": "AsensorAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:47:03.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IElevatorRepository.cs",
+              "DocumentMoniker": "C:\\Git\\Asensor\\AsensorAPI\\Repositories\\IElevatorRepository.cs",
+              "RelativeDocumentMoniker": "AsensorAPI\\Repositories\\IElevatorRepository.cs",
+              "ToolTip": "C:\\Git\\Asensor\\AsensorAPI\\Repositories\\IElevatorRepository.cs",
+              "RelativeToolTip": "AsensorAPI\\Repositories\\IElevatorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:42:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElevatorRepository.cs",
+              "DocumentMoniker": "C:\\Git\\Asensor\\AsensorAPI\\Repositories\\ElevatorRepository.cs",
+              "RelativeDocumentMoniker": "AsensorAPI\\Repositories\\ElevatorRepository.cs",
+              "ToolTip": "C:\\Git\\Asensor\\AsensorAPI\\Repositories\\ElevatorRepository.cs",
+              "RelativeToolTip": "AsensorAPI\\Repositories\\ElevatorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:42:42.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Git\\Asensor\\AsensorAPI\\Models\\Elevator.cs",
+              "RelativeDocumentMoniker": "AsensorAPI\\Models\\Elevator.cs",
+              "ToolTip": "C:\\Git\\Asensor\\AsensorAPI\\Models\\Elevator.cs",
+              "RelativeToolTip": "AsensorAPI\\Models\\Elevator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:42:01.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Git\\Asensor\\AsensorAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AsensorAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Git\\Asensor\\AsensorAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AsensorAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T23:15:40.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElevatorController.cs",
+              "DocumentMoniker": "C:\\Git\\Asensor\\AsensorAPI\\Controllers\\ElevatorController.cs",
+              "RelativeDocumentMoniker": "AsensorAPI\\Controllers\\ElevatorController.cs",
+              "ToolTip": "C:\\Git\\Asensor\\AsensorAPI\\Controllers\\ElevatorController.cs",
+              "RelativeToolTip": "AsensorAPI\\Controllers\\ElevatorController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwDQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:47:56.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AsensorAPI\\ElevatorAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Elevator-Frontend\\Elevator-Frontend.njsproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

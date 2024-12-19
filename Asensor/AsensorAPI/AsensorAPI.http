@@ -1,0 +1,6 @@
+@AsensorAPI_HostAddress = http://localhost:5287
+
+GET {{AsensorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

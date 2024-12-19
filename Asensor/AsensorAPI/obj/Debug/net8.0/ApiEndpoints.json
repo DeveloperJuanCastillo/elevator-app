@@ -1,0 +1,78 @@
+[
+  {
+    "ContainingType": "ElevatorController",
+    "Method": "CallElevator",
+    "RelativePath": "api/Elevator/call",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ElevatorCallRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElevatorController",
+    "Method": "CloseDoors",
+    "RelativePath": "api/Elevator/close-doors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElevatorController",
+    "Method": "OpenDoors",
+    "RelativePath": "api/Elevator/open-doors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElevatorController",
+    "Method": "StartElevator",
+    "RelativePath": "api/Elevator/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElevatorController",
+    "Method": "GetElevatorStatus",
+    "RelativePath": "api/Elevator/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AscensorAPI.Models.Elevator",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ElevatorController",
+    "Method": "StopElevator",
+    "RelativePath": "api/Elevator/stop",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

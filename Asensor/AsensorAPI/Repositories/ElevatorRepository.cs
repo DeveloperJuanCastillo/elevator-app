@@ -1,7 +1,7 @@
-﻿using AscensorAPI.Models;
+﻿using ElevatorAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AscensorAPI.Repositories
+namespace ElevatorAPI.Repositories
 {
     public class ElevatorRepository : IElevatorRepository
     {

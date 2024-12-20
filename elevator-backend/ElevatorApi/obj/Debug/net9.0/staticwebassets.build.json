@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vgFUXMQnUEUPnDUsGrgMT1y6b4KS2NEMFZuPhiKOJeU=",
+  "Source": "ElevatorApi",
+  "BasePath": "_content/ElevatorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

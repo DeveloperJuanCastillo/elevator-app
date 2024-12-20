@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Git\\elevator-frontend\\",
+  "WorkspaceRootPath": "C:\\Git\\elevator-app\\elevator-frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-frontend\\public\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-app\\elevator-frontend\\public\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-app\\elevator-frontend\\public\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-frontend\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-app\\elevator-frontend\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-frontend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-app\\elevator-frontend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-frontend\\public\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-app\\elevator-frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\elevator-app\\elevator-frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "package-lock.json",
-              "DocumentMoniker": "C:\\Git\\elevator-frontend\\package-lock.json",
+              "DocumentMoniker": "C:\\Git\\elevator-app\\elevator-frontend\\package-lock.json",
               "RelativeDocumentMoniker": "package-lock.json",
-              "ToolTip": "C:\\Git\\elevator-frontend\\package-lock.json",
+              "ToolTip": "C:\\Git\\elevator-app\\elevator-frontend\\package-lock.json",
               "RelativeToolTip": "package-lock.json",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAFYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -51,11 +51,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "package.json",
-              "DocumentMoniker": "C:\\Git\\elevator-frontend\\package.json",
+              "DocumentMoniker": "C:\\Git\\elevator-app\\elevator-frontend\\package.json",
               "RelativeDocumentMoniker": "package.json",
-              "ToolTip": "C:\\Git\\elevator-frontend\\package.json",
+              "ToolTip": "C:\\Git\\elevator-app\\elevator-frontend\\package.json",
               "RelativeToolTip": "package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -66,35 +66,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "app.js",
-              "DocumentMoniker": "C:\\Git\\elevator-frontend\\public\\app.js",
+              "DocumentMoniker": "C:\\Git\\elevator-app\\elevator-frontend\\public\\app.js",
               "RelativeDocumentMoniker": "public\\app.js",
-              "ToolTip": "C:\\Git\\elevator-frontend\\public\\app.js",
+              "ToolTip": "C:\\Git\\elevator-app\\elevator-frontend\\public\\app.js",
               "RelativeToolTip": "public\\app.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-19T23:28:46.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Git\\elevator-frontend\\public\\style.css",
-              "RelativeDocumentMoniker": "public\\style.css",
-              "ToolTip": "C:\\Git\\elevator-frontend\\public\\style.css",
-              "RelativeToolTip": "public\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-19T23:28:29.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Git\\elevator-frontend\\public\\index.html",
+              "DocumentMoniker": "C:\\Git\\elevator-app\\elevator-frontend\\public\\index.html",
               "RelativeDocumentMoniker": "public\\index.html",
-              "ToolTip": "C:\\Git\\elevator-frontend\\public\\index.html",
+              "ToolTip": "C:\\Git\\elevator-app\\elevator-frontend\\public\\index.html",
               "RelativeToolTip": "public\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -103,15 +90,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "server.js",
-              "DocumentMoniker": "C:\\Git\\elevator-frontend\\server.js",
+              "DocumentMoniker": "C:\\Git\\elevator-app\\elevator-frontend\\server.js",
               "RelativeDocumentMoniker": "server.js",
-              "ToolTip": "C:\\Git\\elevator-frontend\\server.js",
+              "ToolTip": "C:\\Git\\elevator-app\\elevator-frontend\\server.js",
               "RelativeToolTip": "server.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-19T23:27:16.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Git\\elevator-app\\elevator-frontend\\public\\style.css",
+              "RelativeDocumentMoniker": "public\\style.css",
+              "ToolTip": "C:\\Git\\elevator-app\\elevator-frontend\\public\\style.css",
+              "RelativeToolTip": "public\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-19T23:28:29.597Z",
               "EditorCaption": ""
             }
           ]

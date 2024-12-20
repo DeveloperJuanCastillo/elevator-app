@@ -1,11 +1,13 @@
-using AscensorAPI.Repositories;
+using ElevatorAPI.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped<IElevatorRepository, ElevatorRepository>();
+
 builder.Services.AddCors(options => { 
     options.AddPolicy("AllowAll", policy => { 
-        policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader(); 
+        policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
     }); 
 });
 

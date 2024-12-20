@@ -1,5 +1,5 @@
-﻿using AscensorAPI.Models;
-using AscensorAPI.Repositories;
+﻿using ElevatorAPI.Models;
+using ElevatorAPI.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 [Route("api/[controller]")]

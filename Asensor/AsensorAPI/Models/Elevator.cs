@@ -1,4 +1,4 @@
-﻿namespace AscensorAPI.Models
+﻿namespace ElevatorAPI.Models
 {
     public class Elevator
     {

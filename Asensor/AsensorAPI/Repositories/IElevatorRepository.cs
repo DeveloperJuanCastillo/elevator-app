@@ -1,6 +1,6 @@
-﻿using AscensorAPI.Models;
+﻿using ElevatorAPI.Models;
 
-namespace AscensorAPI.Repositories
+namespace ElevatorAPI.Repositories
 {
     public interface IElevatorRepository
     {
